@@ -1,0 +1,14 @@
+[
+    {"id": 1,
+    "usr": "quoctung1",
+    "pwd": "quoctung1"
+    },
+    {"id": 2,
+        "uer": "quoctung2",
+        "pwd": "quoctung2"
+    },
+    {"id": 3,
+        "uer": "quoctung3",
+        "pwd": "quoctung3"
+    }
+]
